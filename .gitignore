@@ -37,3 +37,6 @@ rsconnect/
 
 # macOS desktop services store
 .DS_Store
+
+# ipy checkpoints
+/.ipynb_checkpoints/eda-checkpoint.ipynb
